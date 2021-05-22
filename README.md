@@ -24,7 +24,4 @@ The final product:
 
 ![site](https://user-images.githubusercontent.com/45697471/116949282-bee4ed80-ac4f-11eb-8336-71ef8c49279b.png)
 
-<br> 
-**Contact**
-**E-mail: mishaal22s@gmail.com**
 
